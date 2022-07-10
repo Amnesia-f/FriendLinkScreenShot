@@ -22,6 +22,10 @@ jobs:
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://www.nesxc.com/ -o www.nesxc.com.jpg
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://zykj.js.org/ -o zykj.js.org.jpg
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://blog.eurkon.com/ -o blog.eurkon.com.jpg
+        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://blog.imlete.cn/ -o blog.imlete.cn.jpg
+        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://www.yunyoujun.cn/ -o www.yunyoujun.cn.jpg
+        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://crazywong.com/ -o crazywong.com.jpg
+        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://hexo.io/ -o hexo.io.jpg
 
         curl https://purge.jsdelivr.net/gh/Amnesia-f/ScreenShot@gh-pages/*.*
     - name: Deploy
