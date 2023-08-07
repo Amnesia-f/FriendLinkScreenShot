@@ -14,7 +14,7 @@ jobs:
     - name: Download
       run: |
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://akilar.top/ -o akilar.top.jpg
-        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://amnesia-f.vercel.app/ -o amnesia-f.vercel.app.jpg
+        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://aciano.top/ -o aciano.top.jpg
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://3donepro.github.io/ -o 3donepro.github.io.jpg
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://blog.zhheo.com/ -o blog.zhheo.com.jpg
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://www.antmoe.com/ -o www.antmoe.com.jpg
@@ -26,6 +26,13 @@ jobs:
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://www.yunyoujun.cn/ -o www.yunyoujun.cn.jpg
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://crazywong.com/ -o crazywong.com.jpg
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://hexo.io/ -o hexo.io.jpg
+        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://blog.cyfan.top/ -o blog.cyfan.top.jpg
+        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://butterfly.js.org/ -o butterfly.js.org.jpg
+        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://www.wangyunzi.life/ -o www.wangyunzi.life.jpg
+        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://uyoahz.cn/ -o uyoahz.cn.jpg
+        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://caczhtus.github.io/ -o caczhtus.github.io.jpg
+        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://luckyu.com.cn/ -o luckyu.com.cn.jpg
+        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://www.licic.net/ -o www.licic.net.jpg
 
         curl https://purge.jsdelivr.net/gh/Amnesia-f/ScreenShot@gh-pages/*.*
     - name: Deploy
